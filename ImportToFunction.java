@@ -1,4 +1,5 @@
 //Created by @RealFrogPoster
+//Project falls under license at https://github.com/BohemianGrove/GhidraScripts/blob/Master/LICENSE.txt
 
 import ghidra.app.script.GhidraScript;
 import ghidra.program.model.address.*;
